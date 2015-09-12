@@ -1,0 +1,1 @@
+<img style="display:block;margin:auto;text-align:center; margin-top:20px; border:1px solid #CCC;" src="{$imagen}">
